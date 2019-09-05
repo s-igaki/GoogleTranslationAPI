@@ -1,2 +1,1 @@
 # GoogleTranslationAPI
-# GoogleTranslationAPI
